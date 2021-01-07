@@ -12,7 +12,7 @@ export const timeframeOptions = {
 
 // token list urls to fetch tokens from - use for warnings on tokens and pairs
 export const SUPPORTED_LIST_URLS__NO_ENS = [
-  'https://gateway.ipfs.io/ipns/tokens.uniswap.org',
+  'https://gateway.pinata.cloud/ipfs/QmVx2cMX9RC9tfoGBNbzYZ4M8X4f3a33E4zQuBqv3pSrgE',
   'https://www.coingecko.com/tokens_list/uniswap/defi_100/v_0_0_0.json',
 ]
 
