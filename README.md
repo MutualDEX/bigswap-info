@@ -1,4 +1,4 @@
-# Uniswap Info
+# Bigswap Info
 
 [![Lint](https://github.com/MutualDEX/bigswap-info/workflows/Lint/badge.svg)](https://github.com/MutualDEX/bigswap-info/actions?query=workflow%3ALint)
 [![Deploy](https://github.com/MutualDEX/bigswap-info/workflows/Deploy/badge.svg)](https://github.com/MutualDEX/bigswap-info/actions?query=workflow%3ADeploy)
