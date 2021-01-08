@@ -183,6 +183,7 @@ function SideNav({ history }) {
                 Twitter
               </Link>
             </HeaderText>
+           <Toggle isActive={isDark} toggle={toggleDarkMode} />
           </AutoColumn>
           {!below1180 && (
             <Polling style={{ marginLeft: '.5rem' }}>
