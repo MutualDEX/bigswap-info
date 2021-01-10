@@ -10,7 +10,7 @@
         filter: url(#filter);
       }
     </style>
-    <filter id="filter" x="155" y="0" width="152" height="211" filterUnits="userSpaceOnUse">
+    <filter id="filter" x="255" y="0" width="152" height="211" filterUnits="userSpaceOnUse">
       <feFlood result="flood" flood-color="#fff"/>
       <feComposite result="composite" operator="in" in2="SourceGraphic"/>
       <feBlend result="blend" in2="SourceGraphic"/>
